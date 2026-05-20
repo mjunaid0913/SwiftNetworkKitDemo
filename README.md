@@ -347,6 +347,3 @@ MIT License
 Muhammad Junaid Babar
 
 iOS Developer passionate about building scalable and clean Swift applications.
-
-```
-```
